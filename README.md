@@ -11,6 +11,10 @@ Guest
 - 201804554 산업경영공학과 박세윤 
 - 201803603 독일어통번역학과 윤다영
 
+## Duration
+
+2020.09.21 ~ 2020.12.21
+
 ## Projcet Objective
 
 - By using regression analysis, we aim to statistically estimate the relationship among number of accommodates or amenities, reviews and price using parameter model
